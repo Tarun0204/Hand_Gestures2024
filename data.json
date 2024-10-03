@@ -1,0 +1,10 @@
+{
+    "open":{
+     "command":["one","two","three","four","five","six","seven"],
+     "answer":["one","two","three","four","five","six","seven"]   
+    },
+    "search":{
+        "command":["one","two","three","four","five","six","seven"],
+        "answer":["one","two","three","four","five","six","seven"]
+    }
+}
